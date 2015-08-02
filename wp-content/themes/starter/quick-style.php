@@ -1,0 +1,1 @@
+body{ background: #ffffff; }.navbar.navbar-default{ background: #ffffff; }#footer{ background: #4378ad; }body{font-family: "Raleway";font-weight: 400;font-size: 14px;color: #111111;}h1,h2,h3,h4,h5,h6{font-family: "Raleway";font-weight: 700;color: #555555;}#navigation .navbar-nav > li > a{font-family: "Raleway";}
